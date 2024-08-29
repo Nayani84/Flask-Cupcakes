@@ -1,0 +1,10 @@
+#cupcakes-list button {
+    position: absolute;
+    left: 75%;
+    margin: 5px 0;
+    opacity: 0.3;
+}
+
+#cupcakes-list button:hover {
+    opacity: 1;
+}
